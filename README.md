@@ -12,7 +12,8 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/samhithareddymadhireddy/samhithareddymadhireddy/output/snake.svg" alt="Snake animation" width="100%"/>
+<!-- <img src="https://raw.githubusercontent.com/samhithareddymadhireddy/samhithareddymadhireddy/output/snake.svg" alt="Snake animation" width="100%"/> -->
+<img src="https://raw.githubusercontent.com/samhithareddymadhireddy/samhithareddymadhireddy/output/snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -99,7 +100,7 @@ public:
 
 int main() {
 
-    Rathan engineer;
+    Samhitha engineer;
 
     engineer.intro();
 
@@ -182,7 +183,7 @@ int main() {
 
 <div align="center">
 
-<
+
 
 <br><br>
 
