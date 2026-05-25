@@ -182,11 +182,7 @@ int main() {
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=samhithareddymadhireddya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=samhithareddymadhireddy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<
 
 <br><br>
 
@@ -211,7 +207,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=samhitharedd
 # 🌐 Find Me Around the Web
 
 <div align="center">
-<a href="https://linkedin.com/in/Samhitha%20Reddy%20Madhireddy">
+<a href="https://linkedin.com/in/samhitha-reddy-madhireddy-a40a9a341">
 <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="40"/>
 </a>
 &nbsp;
